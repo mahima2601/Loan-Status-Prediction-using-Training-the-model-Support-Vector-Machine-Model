@@ -1,0 +1,1 @@
+# Loan-Status-Prediction-using-Training-the-model-Support-Vector-Machine-Model
